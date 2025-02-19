@@ -1,18 +1,28 @@
 # Ponderada ANAC
 
 Idade padrão é chamada
+
+
 ![alt text](image.png)
 
 Em seguida é alterada e chamada novamente para certificar de que a alteração está sendo feita
+
+
 ![alt text](image-1.png)
 
 Em seguida é chamada a nacionalidade padrão
+
+
 ![alt text](image-2.png)
 
 E é realizada a troca de nacionalidade assim como feito com a idade
+
+
 ![alt text](image-3.png)
 
 No panorama geral é possível visualizar que as combinações funcionam brasileiro adulto ou adolescente e estrangeiro adultou ou adolescente. 
+
+
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 ![alt text](image-6.png)
